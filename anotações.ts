@@ -12,7 +12,4 @@ modial mode
 export default variavel; se nao vai para o script
 script mode
 um arquivo javascript enorme, variaveis globais pra pasta inteira     
-
-
-
 */
