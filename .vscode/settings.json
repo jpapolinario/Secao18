@@ -1,7 +1,7 @@
 // como se fosse as configurações mas referente a esse projeto
 {
     "code-runner.executorMap": {
-        "typescript": "npx tsx"
+        "typescript": "cls && npx tsx"
     },
     "eslint.useFlatConfig": false
 }
